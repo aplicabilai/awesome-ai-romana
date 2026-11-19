@@ -1,0 +1,38 @@
+name: Actualizare și verificare linkuri
+
+on:
+  schedule:
+    - cron: "41 5 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  actualizare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Completează secțiunile automate
+        run: node scripts/actualizeaza.mjs
+      - name: Commit dacă s-a schimbat ceva
+        run: |
+          if git diff --quiet --exit-code README.md; then echo "Nimic nou."; exit 0; fi
+          git add README.md
+          git -c user.name="aplicabilai" -c user.email="noreply@aplicabilai.ro" commit -m "Actualizare automată $(date -u +%Y-%m-%d)"
+          git push
+      - name: Verifică linkurile
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --no-progress --max-retries 3 --accept 200,201,204,301,302,403,429 README.md
+          fail: false
+      - name: Deschide un issue dacă există linkuri moarte
+        if: steps.lychee.outputs.exit_code != 0
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue create --title "Linkuri moarte $(date -u +%Y-%m-%d)" --body-file ./lychee/out.md
