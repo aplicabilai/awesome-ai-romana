@@ -11,7 +11,7 @@ Lista adună resurse despre inteligența artificială **în limba română**. O 
 
 - Deschide un pull request care modifică **doar** `README.md`, în secțiunea potrivită, în formatul:
   `- [Nume](https://link) – ce e și pentru cine, într-o propoziție.`
-- Sau deschide un [issue](../../issues/new) cu linkul și o propoziție despre resursă.
+- Sau deschide un [issue](https://github.com/aplicabilai/awesome-ai-romana/issues/new) cu linkul și o propoziție despre resursă.
 
 Nu edita textul dintre marcajele `<!-- auto:...:start -->` și `<!-- auto:...:end -->`: e completat automat.
 

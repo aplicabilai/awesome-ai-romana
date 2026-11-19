@@ -98,7 +98,7 @@ Escrocii folosesc deja voci clonate și video-uri generate („deepfake”). Res
 
 ## Contribuie
 
-Știi o resursă gratuită, în română, care lipsește? Deschide un [issue](../../issues/new) sau un pull request. Citește întâi [CONTRIBUTING.md](CONTRIBUTING.md).
+Știi o resursă gratuită, în română, care lipsește? Deschide un [issue](https://github.com/aplicabilai/awesome-ai-romana/issues/new) sau un pull request. Citește întâi [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Licență
 
