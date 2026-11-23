@@ -51,13 +51,14 @@ Pe meserii, cu buton de copiere: [agricultori](https://aplicabilai.ro/prompturi/
 - [Alfabetizarea AI la muncă (AI Act, art. 4)](https://aplicabilai.ro/ghid/alfabetizare-ai-la-locul-de-munca/) – Ce cere articolul 4 din AI Act firmelor ai căror oameni folosesc ChatGPT sau Claude și un plan de instruire gratuit, pe meserii, cu registru de tipărit.
 - [Ce este un agent AI: explicat simplu, cu exemple](https://aplicabilai.ro/ghid/ce-este-un-agent-ai/) – Ce este un agent AI, cum diferă de un chat obișnuit cu ChatGPT sau Claude, exemple din meserii, riscurile și regulile cu care îl folosești în siguranță.
 - [ChatGPT în română, gratis: cum începi pas cu pas](https://aplicabilai.ro/ghid/chatgpt-in-romana/) – Cum folosești ChatGPT în română, gratuit: adresa oficială, contul, limba română din setări, aplicația de telefon, primul prompt și ce nu scrii niciodată.
-- [Claude AI în română: gratuit, pas cu pas](https://aplicabilai.ro/ghid/claude-in-romana/) – Cum folosești Claude AI în română: adresa oficială, ce primești gratuit, ce limite are, setarea de confidențialitate și primele prompturi pentru munca ta.
-- [Claude sau ChatGPT la muncă: ce alegi, pe meserii](https://aplicabilai.ro/ghid/claude-sau-chatgpt/) – Claude sau ChatGPT pentru munca ta? Diferențele verificate în sursele oficiale, testul de 10 minute cu același prompt și ce testezi în meseria ta. În română.
-- [Curs AI gratuit în română, pe meserii](https://aplicabilai.ro/ghid/curs-ai-gratuit-in-romana/) – Unde înveți gratuit să folosești ChatGPT și Claude la muncă, în română: tabel cu resursele, plan de două săptămâni pe meserie și ce nu primești de la un curs.
-- [Gemini în română: gratuit, pas cu pas](https://aplicabilai.ro/ghid/gemini-in-romana/) – Cum folosești Gemini de la Google în română: contul, ce primești fără abonament, cine îți poate citi conversațiile și primele prompturi pentru munca ta.
+- [Claude AI în română: gratuit în România, pas cu pas](https://aplicabilai.ro/ghid/claude-in-romana/) – Da, Claude merge în România și are variantă gratuită. Ce primești fără abonament, cum îl folosești în română și primele prompturi pentru munca ta.
+- [Claude sau ChatGPT: pe care îl alegi la muncă?](https://aplicabilai.ro/ghid/claude-sau-chatgpt/) – Claude sau ChatGPT? Diferențele care contează la muncă, verificate în sursele oficiale, și un test de 10 minute cu același prompt ca să alegi singur.
+- [Curs AI gratuit în română (2026): unde înveți](https://aplicabilai.ro/ghid/curs-ai-gratuit-in-romana/) – Cursuri AI gratuite în română, fără cont: unde înveți ChatGPT și Claude pentru meseria ta, ce oferă fiecare resursă și un plan de două săptămâni.
+- [Gemini în română: e gratuit? Cum îl folosești](https://aplicabilai.ro/ghid/gemini-in-romana/) – Aplicația Gemini are variantă gratuită și merge în română. Ce primești fără abonament, cine îți poate citi conversațiile și primele prompturi pentru muncă.
 - [Gemini pentru studenți: 12 luni gratuit, pas cu pas](https://aplicabilai.ro/ghid/gemini-gratuit-pentru-studenti/) – Oferta Google pentru studenții din România: cine are dreptul, ce acte cere verificarea, pașii de activare, ce faci după 12 luni și cum înveți cu Gemini.
-- [Grok în română: gratuit, pas cu pas](https://aplicabilai.ro/ghid/grok-in-romana/) – Cum folosești Grok de la xAI în română: unde îl găsești, ce setări de confidențialitate oprești, ce nu scrii niciodată și primele prompturi pentru munca ta.
-- [Model scrisoare de intenție și cum o scrii cu AI](https://aplicabilai.ro/ghid/model-scrisoare-de-intentie/) – Model de scrisoare de intenție în română, pe paragrafe, un exemplu complet, variante pentru primul loc de muncă și cum te ajută AI-ul fără să sune generic.
+- [Grok în română: ce este și cum îl folosești](https://aplicabilai.ro/ghid/grok-in-romana/) – Grok, asistentul AI de la xAI, merge și în română. Unde îl găsești, ce setări de confidențialitate oprești, ce nu scrii niciodată și primele prompturi.
+- [Model scrisoare de intenție și cum o scrii cu AI](https://aplicabilai.ro/ghid/model-scrisoare-de-intentie/) – Model de scrisoare de intenție în română, pe paragrafe, două exemple complete fără experiență, variante și cum te ajută AI-ul fără să sune generic.
+- [Nano Banana în română: poze cu Gemini, pas cu pas](https://aplicabilai.ro/ghid/nano-banana-in-romana/) – Ce este Nano Banana, unde îl găsești oficial, cum faci și editezi o poză în Gemini, cum recunoști site-urile care doar îi împrumută numele și ce nu încarci.
 <!-- auto:ghiduri:end -->
 
 ## Unelte gratuite
@@ -66,6 +67,7 @@ Pe meserii, cu buton de copiere: [agricultori](https://aplicabilai.ro/prompturi/
 - [Ascunde datele personale înainte de ChatGPT](https://aplicabilai.ro/unelte/ascunde-date-personale/) – Unealtă gratuită: înlocuiește CNP, telefon, email, IBAN și nume cu etichete înainte să lipești textul în ChatGPT sau Claude. Rulează în browser.
 - [Generator de prompt ChatGPT pe meserie, gratuit](https://aplicabilai.ro/unelte/generator-prompt/) – Generator gratuit de prompt în română pentru ChatGPT și Claude, pe meserie: alegi sarcina, primești promptul și lista cu ce date nu dai AI-ului.
 - [Generator de prompt pentru profesori](https://aplicabilai.ro/unelte/generator-prompt-profesori/) – Generator gratuit de prompt în română pentru profesori: plan de lecție, fișă, test, feedback sau mesaj către părinți. Rulează în browser, fără cont.
+- [Instrucțiuni personalizate ChatGPT: exemple utile](https://aplicabilai.ro/unelte/instructiuni-personalizate/) – Ce scrii în instrucțiunile personalizate din ChatGPT, Claude sau Gemini: generator gratuit pe meserie, sub 1.500 de caractere, fără date personale.
 - [Verifică răspunsul ChatGPT: legi, decizii, cifre](https://aplicabilai.ro/unelte/verifica-raspunsul-ai/) – Unealtă gratuită: lipești răspunsul de la ChatGPT sau Claude și primești lista cu legile, deciziile, cifrele și linkurile de verificat, plus unde.
 <!-- auto:unelte:end -->
 
@@ -74,7 +76,7 @@ Pe meserii, cu buton de copiere: [agricultori](https://aplicabilai.ro/prompturi/
 Termeni AI explicați pe înțeles, cu exemple.
 
 <!-- auto:glosar:start -->
-[Ce este un model de limbaj (LLM), pe înțeles](https://aplicabilai.ro/glosar/model-de-limbaj/) · [Ce este un prompt AI: definiție și exemplu](https://aplicabilai.ro/glosar/prompt/) · [Ce este un token în ChatGPT și Claude](https://aplicabilai.ro/glosar/token/) · [Chat temporar în ChatGPT și incognito în Claude](https://aplicabilai.ro/glosar/chat-temporar/) · [Fereastra de context în AI: ce este, exemplu](https://aplicabilai.ro/glosar/fereastra-de-context/) · [Halucinație AI: ce este, exemplu, cum verifici](https://aplicabilai.ro/glosar/halucinatie/) · [Instrucțiuni personalizate în ChatGPT și Claude](https://aplicabilai.ro/glosar/instructiuni-personalizate/)
+[Ce este memoria în ChatGPT și Claude](https://aplicabilai.ro/glosar/memorie/) · [Ce este un model de limbaj (LLM), pe înțeles](https://aplicabilai.ro/glosar/model-de-limbaj/) · [Ce este un prompt AI: definiție și exemplu](https://aplicabilai.ro/glosar/prompt/) · [Ce este un token în ChatGPT și Claude](https://aplicabilai.ro/glosar/token/) · [Chat temporar în ChatGPT și incognito în Claude](https://aplicabilai.ro/glosar/chat-temporar/) · [Fereastra de context în AI: ce este, exemplu](https://aplicabilai.ro/glosar/fereastra-de-context/) · [Halucinație AI: ce este, exemplu, cum verifici](https://aplicabilai.ro/glosar/halucinatie/) · [Instrucțiuni personalizate în ChatGPT și Claude](https://aplicabilai.ro/glosar/instructiuni-personalizate/)
 <!-- auto:glosar:end -->
 
 ## Siguranță online și înșelătorii cu AI
